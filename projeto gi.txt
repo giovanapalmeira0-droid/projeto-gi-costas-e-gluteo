@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projeto Gi - Glúteo e Costas</title>
+<style>
+    body { font-family: Arial, sans-serif; background-color: #f8f9fa; margin:0; padding:0; color:#333; }
+    header { background-color: #ff6b81; color:white; text-align:center; padding:20px; }
+    section { max-width:800px; margin:20px auto; padding:20px; background:#fff; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+    h2 { color:#ff6b81; margin-bottom:10px; }
+    .exercise { margin-bottom:20px; }
+    .exercise img { max-width:100%; border-radius:8px; }
+    footer { text-align:center; padding:20px; background-color:#ff6b81; color:white; margin-top:20px; }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Projeto Gi do Bundão e Barriga Seca</h1>
+    <p>Treino de Glúteos e Costas + Aquecimento/Mobilidade</p>
+</header>
+
+<section>
+    <h2>🔥 Aquecimento e Mobilidade</h2>
+    <div class="exercise">
+        <h3>Mobilidade de Quadril</h3>
+        <p>Movimentos circulares para preparar os quadris.</p>
+        <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Mobilidade de Quadril">
+    </div>
+    <div class="exercise">
+        <h3>Alongamento Dinâmico</h3>
+        <p>Agachamentos leves e balanços de perna para ativar os músculos.</p>
+        <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Alongamento Dinâmico">
+    </div>
+</section>
+
+<section>
+    <h2>🏋️‍♀️ Treino de Glúteos e Costas</h2>
+    <div class="exercise">
+        <h3>Glute Bridge</h3>
+        <p>Fortalece glúteos e lombar. 3 séries de 12-15 repetições.</p>
+        <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Glute Bridge">
+    </div>
+    <div class="exercise">
+        <h3>Hip Thrust</h3>
+        <p>Foco total nos glúteos. 3 séries de 10-12 repetições.</p>
+        <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Hip Thrust">
+    </div>
+    <div class="exercise">
+        <h3>Agachamento com Barra</h3>
+        <p>Trabalha pernas e glúteos. 4 séries de 8-12 repetições.</p>
+        <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" alt="Agachamento com Barra">
+    </div>
+    <div class="exercise">
+        <h3>Remada Curvada</h3>
+        <p>Fortalece costas e parte posterior dos ombros. 3 séries de 10-12 repetições.</p>
+        <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Remada Curvada">
+    </div>
+    <div class="exercise">
+        <h3>Deadlift (Levantamento Terra)</h3>
+        <p>Trabalha glúteos, lombar e isquiotibiais. 3 séries de 8-10 repetições.</p>
+        <img src="https://media.giphy.com/media/3o7abldE2U5U3K2KUU/giphy.gif" alt="Deadlift">
+    </div>
+</section>
+
+<footer>
+    <p>Projeto Gi do Bundão e Barriga Seca 💪</p>
+</footer>
+
+</body>
+</html>
